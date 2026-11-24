@@ -1,0 +1,2 @@
+(library
+ (name create_cpp))

@@ -1,0 +1,9 @@
+# Dune build output
+/_build/
+*.install
+
+# Local opam switch
+/_opam/
+
+# macOS metadata
+.DS_Store

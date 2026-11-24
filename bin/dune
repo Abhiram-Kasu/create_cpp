@@ -1,0 +1,4 @@
+(executable
+ (public_name create_cpp)
+ (name main)
+ (libraries create_cpp))
